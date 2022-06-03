@@ -15,3 +15,4 @@ with
 select * from table_1;
 
 SELECT name FROM table_1;
+SELECT position FROM table_2;
